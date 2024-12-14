@@ -1,0 +1,49 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "fs7hl4q4jqxbvu9yo927u1",
+      "label": "warning--trucks-crossing--g1",
+      "bbox": {
+        "xmin": 873.28125,
+        "ymin": 439.541015625,
+        "xmax": 909.375,
+        "ymax": 474.609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "swipb9zf5xa3slwhckgjuo",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 877.5,
+        "ymin": 475.13671875,
+        "xmax": 907.5,
+        "ymax": 484.892578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

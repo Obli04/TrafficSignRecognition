@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3016,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "7mx0o54tuqq0ljncwfu773",
+      "label": "warning--crossroads--g1",
+      "bbox": {
+        "xmin": 1507.078125,
+        "ymin": 2136.82421875,
+        "xmax": 1534.640625,
+        "ymax": 2163.33203125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "rqdw8acm9ljajl0hdsqgei",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1503.140625,
+        "ymin": 2166.27734375,
+        "xmax": 1537.59375,
+        "ymax": 2175.849609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

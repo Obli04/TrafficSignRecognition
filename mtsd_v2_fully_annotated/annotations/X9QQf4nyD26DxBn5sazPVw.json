@@ -1,0 +1,49 @@
+{
+  "width": 4160,
+  "height": 3120,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "tkdg9w9f0r1vpv6zf0rod4",
+      "label": "regulatory--give-way-to-oncoming-traffic--g1",
+      "bbox": {
+        "xmin": 2390.78125,
+        "ymin": 593.37890625,
+        "xmax": 2473.046875,
+        "ymax": 686.30859375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "nzccfgxqx886phfkpmiokd",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2388.75,
+        "ymin": 690.1171875,
+        "xmax": 2470.0,
+        "ymax": 729.7265625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

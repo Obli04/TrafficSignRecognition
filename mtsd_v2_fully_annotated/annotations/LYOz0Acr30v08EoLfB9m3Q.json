@@ -1,0 +1,49 @@
+{
+  "width": 1280,
+  "height": 720,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "rkbdt6gsa6ima3jfiv3e6v",
+      "label": "warning--falling-rocks-or-debris-right--g1",
+      "bbox": {
+        "xmin": 671.875,
+        "ymin": 324.4921875,
+        "xmax": 699.6875,
+        "ymax": 351.03515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "tv80cm1l1zfpymph3j7dlz",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 446.5625,
+        "ymin": 306.9140625,
+        "xmax": 456.25,
+        "ymax": 317.28515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

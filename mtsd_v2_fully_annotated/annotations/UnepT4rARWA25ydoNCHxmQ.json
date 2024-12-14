@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "2gm2m7byze8qo436ny6421",
+      "label": "warning--road-bump--g1",
+      "bbox": {
+        "xmin": 2146.921875,
+        "ymin": 1102.9921875,
+        "xmax": 2206.96875,
+        "ymax": 1169.4375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ijsb14o5bvl2s3adgazdrr",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2015.015625,
+        "ymin": 1154.671875,
+        "xmax": 2042.578125,
+        "ymax": 1187.15625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

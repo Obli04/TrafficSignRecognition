@@ -1,0 +1,49 @@
+{
+  "width": 5312,
+  "height": 2988,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "70zm-knVSVCniMHhrWXubw",
+      "label": "regulatory--dual-path-pedestrians-and-bicycles--g1",
+      "bbox": {
+        "xmin": 3990.484375,
+        "ymin": 1937.53125,
+        "xmax": 4048.84375,
+        "ymax": 2003.185546875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "apYSaNOpRV632HA1Lxl0TQ",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 4944.984375,
+        "ymin": 2084.888671875,
+        "xmax": 4973.515625,
+        "ymax": 2113.3388671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

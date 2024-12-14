@@ -1,0 +1,49 @@
+{
+  "width": 1280,
+  "height": 720,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "ys4eg8cdezhqcsbadv3th5",
+      "label": "regulatory--lane-control--g1",
+      "bbox": {
+        "xmin": 278.75,
+        "ymin": 409.21875,
+        "xmax": 314.0625,
+        "ymax": 445.25390625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ixkillkr87nzf2f056yemq",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 896.25,
+        "ymin": 478.30078125,
+        "xmax": 913.125,
+        "ymax": 483.75
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

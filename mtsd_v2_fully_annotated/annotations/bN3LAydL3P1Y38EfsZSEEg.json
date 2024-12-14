@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "7o1khv2y9ym2og1ewufmbx",
+      "label": "warning--junction-with-a-side-road-perpendicular-right--g1",
+      "bbox": {
+        "xmin": 1672.640625,
+        "ymin": 1470.83203125,
+        "xmax": 1706.109375,
+        "ymax": 1499.51953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "9tm1hsw3i8si90qger0lxy",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1004.0625,
+        "ymin": 1407.48046875,
+        "xmax": 1035.140625,
+        "ymax": 1439.75390625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

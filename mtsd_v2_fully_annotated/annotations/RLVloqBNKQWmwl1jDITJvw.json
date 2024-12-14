@@ -1,0 +1,49 @@
+{
+  "width": 2934,
+  "height": 2200,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "z39ylpsphwej5w401xzled",
+      "label": "warning--junction-with-a-side-road-acute-right--g1",
+      "bbox": {
+        "xmin": 308.0126953125,
+        "ymin": 1141.89453125,
+        "xmax": 401.1328125,
+        "ymax": 1230.517578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "6du1x9d6epwmqhr1xvv7f8",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 287.9560546875,
+        "ymin": 1206.34765625,
+        "xmax": 353.14013671875,
+        "ymax": 1229.98046875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

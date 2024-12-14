@@ -1,0 +1,49 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "a2r77cxuxm5crp6x3looz2",
+      "label": "warning--slippery-road-surface--g2",
+      "bbox": {
+        "xmin": 1430.6640625,
+        "ymin": 1895.5078125,
+        "xmax": 1546.875,
+        "ymax": 2007.568359375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "11oghstt14iagbbfhz1ohf",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1824.21875,
+        "ymin": 2011.962890625,
+        "xmax": 1857.421875,
+        "ymax": 2031.73828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

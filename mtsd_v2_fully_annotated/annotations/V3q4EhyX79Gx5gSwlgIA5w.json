@@ -1,0 +1,133 @@
+{
+  "width": 4032,
+  "height": 2268,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "z56rhfv23catjxguib8cs2",
+      "label": "warning--traffic-signals--g3",
+      "bbox": {
+        "xmin": 2925.5625,
+        "ymin": 709.3037109375,
+        "xmax": 3150.984375,
+        "ymax": 940.7548828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "hqvge8rixk1672q9wiv0z4",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2992.5,
+        "ymin": 654.486328125,
+        "xmax": 3081.09375,
+        "ymax": 708.75
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "mguq51wn6odtki3yo9gswj",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2564.296875,
+        "ymin": 911.408203125,
+        "xmax": 2647.96875,
+        "ymax": 949.6142578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "dggoc6hd05lstnflb0lv2t",
+      "label": "regulatory--one-way-left--g1",
+      "bbox": {
+        "xmin": 2574.140625,
+        "ymin": 972.31640625,
+        "xmax": 2591.859375,
+        "ymax": 983.390625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "cq0699xt1x5pozhhvhr5y5",
+      "label": "information--hospital--g1",
+      "bbox": {
+        "xmin": 2574.140625,
+        "ymin": 951.8291015625,
+        "xmax": 2591.859375,
+        "ymax": 971.208984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "sb4qill8cr8dw6drnxtjnv",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2409.75,
+        "ymin": 930.234375,
+        "xmax": 2423.53125,
+        "ymax": 945.1845703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

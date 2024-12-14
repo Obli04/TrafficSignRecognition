@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "274zk3uisfutcgj54pc9mp",
+      "label": "warning--trams-crossing--g1",
+      "bbox": {
+        "xmin": 991.3125,
+        "ymin": 999.28125,
+        "xmax": 1042.3125,
+        "ymax": 1042.91015625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "eb3n1cq03vkh34bt7kodz4",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1002.46875,
+        "ymin": 1044.703125,
+        "xmax": 1040.71875,
+        "ymax": 1065.0234375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

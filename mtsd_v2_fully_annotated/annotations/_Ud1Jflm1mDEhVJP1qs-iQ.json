@@ -1,0 +1,112 @@
+{
+  "width": 3840,
+  "height": 2160,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "rufcv7bprpu52plgeb3udhs9bm",
+      "label": "regulatory--go-straight-or-turn-left--g2",
+      "bbox": {
+        "xmin": 2259.375,
+        "ymin": 1368.45703125,
+        "xmax": 2283.75,
+        "ymax": 1397.4609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "bjs56d7gki8ki7tv970coflrdv",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3607.5,
+        "ymin": 986.66015625,
+        "xmax": 3720.0,
+        "ymax": 1048.88671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "9ru504b6lo3nirpi7v1qrb0hnb",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 744.375,
+        "ymin": 1436.484375,
+        "xmax": 787.5,
+        "ymax": 1454.4140625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "cjfb4rmop6pk801qktecae0474",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3616.875,
+        "ymin": 1009.3359375,
+        "xmax": 3753.75,
+        "ymax": 1057.8515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "u4nuh02fu5kprf7sg0ul4bkf4o",
+      "label": "regulatory--turn-left--g2",
+      "bbox": {
+        "xmin": 2096.25,
+        "ymin": 1386.9140625,
+        "xmax": 2121.5625,
+        "ymax": 1413.80859375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

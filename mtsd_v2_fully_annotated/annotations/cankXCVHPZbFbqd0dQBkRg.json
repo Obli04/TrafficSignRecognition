@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "zmftclrphpl7cp8q63kpqy",
+      "label": "regulatory--no-motor-vehicles-except-motorcycles--g2",
+      "bbox": {
+        "xmin": 3509.296875,
+        "ymin": 1857.515625,
+        "xmax": 3623.484375,
+        "ymax": 1914.36328125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "qlzkcznusd0cb9n31rvklh",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3515.203125,
+        "ymin": 1914.36328125,
+        "xmax": 3632.34375,
+        "ymax": 1973.42578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "width": 2048,
+  "height": 1536,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "5bvwzte4nxwgeyoh5ybx9i",
+      "label": "information--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 1510.0,
+        "ymin": 747.75,
+        "xmax": 1556.0,
+        "ymax": 792.0
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "otmqlcxo2cefmf2c4x4wmn",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1606.0,
+        "ymin": 737.25,
+        "xmax": 1649.5,
+        "ymax": 799.5
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "9k3vf0ikmb48vnhwzvu83n",
+      "label": "information--tram-bus-stop--g2",
+      "bbox": {
+        "xmin": 1577.5,
+        "ymin": 751.875,
+        "xmax": 1614.0,
+        "ymax": 796.875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ax77cl0jh7v4mrs91hq5w2",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 438.0,
+        "ymin": 711.75,
+        "xmax": 474.0,
+        "ymax": 748.875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

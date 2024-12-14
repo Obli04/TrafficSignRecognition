@@ -1,0 +1,49 @@
+{
+  "width": 1600,
+  "height": 1184,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "rtmtscgt2cdao5yl0n1q8x",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1053.125,
+        "ymin": 325.1953125,
+        "xmax": 1225.0,
+        "ymax": 638.828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "aqpel5mrfr6hdny0rqs7w6",
+      "label": "regulatory--maximum-speed-limit-60--g1",
+      "bbox": {
+        "xmin": 1056.25,
+        "ymin": 432.1484375,
+        "xmax": 1210.546875,
+        "ymax": 601.828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

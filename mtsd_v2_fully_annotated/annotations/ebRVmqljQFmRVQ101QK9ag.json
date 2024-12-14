@@ -1,0 +1,70 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "o45md3zu8efbcolx4gpgvk",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2167.96875,
+        "ymin": 2031.73828125,
+        "xmax": 2220.703125,
+        "ymax": 2096.923828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "jrel766rvupbfrkj79zqh4",
+      "label": "warning--two-way-traffic--g2",
+      "bbox": {
+        "xmin": 2175.78125,
+        "ymin": 2044.189453125,
+        "xmax": 2214.84375,
+        "ymax": 2081.54296875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "0gh7f9jb79z0ssapnl7rq9",
+      "label": "regulatory--give-way-to-oncoming-traffic--g1",
+      "bbox": {
+        "xmin": 2136.71875,
+        "ymin": 2084.47265625,
+        "xmax": 2158.203125,
+        "ymax": 2108.642578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

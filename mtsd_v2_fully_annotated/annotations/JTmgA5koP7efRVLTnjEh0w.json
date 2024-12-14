@@ -1,0 +1,70 @@
+{
+  "width": 1280,
+  "height": 720,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "cgqktei2nmmrmck5fd047z",
+      "label": "regulatory--mopeds-and-bicycles-only--g1",
+      "bbox": {
+        "xmin": 57.1875,
+        "ymin": 201.26953125,
+        "xmax": 79.6875,
+        "ymax": 234.140625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "d4ciarcyauf8faaefbrn10",
+      "label": "regulatory--end-of-speed-limit-zone--g1",
+      "bbox": {
+        "xmin": 270.3125,
+        "ymin": 209.8828125,
+        "xmax": 306.25,
+        "ymax": 252.0703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "m1twnbknxxe2ci9o1c4u7x",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 482.5,
+        "ymin": 134.47265625,
+        "xmax": 526.875,
+        "ymax": 187.3828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "width": 1280,
+  "height": 720,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "a9yppl1f5awua4q4oig292",
+      "label": "regulatory--yield--g1",
+      "bbox": {
+        "xmin": 1125.9375,
+        "ymin": 266.30859375,
+        "xmax": 1185.0,
+        "ymax": 322.3828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "0dt6bfyf7t88foswpfp7e6",
+      "label": "regulatory--no-left-turn--g1",
+      "bbox": {
+        "xmin": 1134.0625,
+        "ymin": 322.3828125,
+        "xmax": 1185.0,
+        "ymax": 375.8203125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ovxz4tkzzn5mgzgyu4gbz6",
+      "label": "information--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 717.8125,
+        "ymin": 376.171875,
+        "xmax": 738.75,
+        "ymax": 396.9140625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "m17hxwtrvxiyy0yaytl6s6",
+      "label": "regulatory--turn-right--g1",
+      "bbox": {
+        "xmin": 67.5,
+        "ymin": 415.37109375,
+        "xmax": 118.75,
+        "ymax": 509.23828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "k6ctyz3m2vuadvt9pc496i",
+      "label": "regulatory--end-of-priority-road--g1",
+      "bbox": {
+        "xmin": 717.8125,
+        "ymin": 355.25390625,
+        "xmax": 738.4375,
+        "ymax": 377.05078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "width": 2343,
+  "height": 1482,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "ISykfdkAS3unz4bMgvQO-Q",
+      "label": "regulatory--reversible-lanes--g2",
+      "bbox": {
+        "xmin": 1758.39404296875,
+        "ymin": 1259.12109375,
+        "xmax": 1797.863525390625,
+        "ymax": 1328.58984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "nFqy2mAoRZWH7X7geHu4XQ",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1773.838623046875,
+        "ymin": 1331.84619140625,
+        "xmax": 1793.859375,
+        "ymax": 1366.9423828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

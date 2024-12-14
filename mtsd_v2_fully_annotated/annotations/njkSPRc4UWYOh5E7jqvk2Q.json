@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "kgwnk9ruxlin9yh2ds8yi9",
+      "label": "regulatory--roundabout--g1",
+      "bbox": {
+        "xmin": 442.265625,
+        "ymin": 1877.8359375,
+        "xmax": 494.859375,
+        "ymax": 2006.9296875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "di8oz6n4furod91efr0png",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1249.5,
+        "ymin": 1648.3359375,
+        "xmax": 1386.5625,
+        "ymax": 2015.89453125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

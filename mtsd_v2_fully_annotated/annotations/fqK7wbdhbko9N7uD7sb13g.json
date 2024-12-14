@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "qgh8or63pa2hxd7iducx7j",
+      "label": "warning--roundabout--g1",
+      "bbox": {
+        "xmin": 1965.796875,
+        "ymin": 1540.0546875,
+        "xmax": 2004.1875,
+        "ymax": 1576.96875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "8e6ghsbi6hidf2yb9jkf1u",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2379.234375,
+        "ymin": 1560.7265625,
+        "xmax": 2442.234375,
+        "ymax": 1602.0703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

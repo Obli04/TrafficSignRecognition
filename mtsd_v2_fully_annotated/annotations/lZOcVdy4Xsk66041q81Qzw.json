@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "oc9zxqr47l3xpvx6fj34x7",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1755.515625,
+        "ymin": 1314.24609375,
+        "xmax": 1783.40625,
+        "ymax": 1354.2890625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "le0jh1d9rlziivfurld22l",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1620.84375,
+        "ymin": 1293.92578125,
+        "xmax": 1627.21875,
+        "ymax": 1301.6953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

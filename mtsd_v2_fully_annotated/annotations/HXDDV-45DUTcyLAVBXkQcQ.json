@@ -1,0 +1,112 @@
+{
+  "width": 4128,
+  "height": 3096,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "uc5t5dmqek0q8fmig29tcl8rq3",
+      "label": "regulatory--maximum-speed-limit-50--g1",
+      "bbox": {
+        "xmin": 1571.1796875,
+        "ymin": 1847.3203125,
+        "xmax": 1600.40625,
+        "ymax": 1882.845703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "fkkc7brk72cgse5srqnrcdcvuo",
+      "label": "regulatory--stop--g1",
+      "bbox": {
+        "xmin": 1173.09375,
+        "ymin": 1582.76953125,
+        "xmax": 1273.875,
+        "ymax": 1678.763671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "t8jo1f9jiq7hisp5rqr1edqk2v",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1325.2734375,
+        "ymin": 1712.021484375,
+        "xmax": 1373.6484375,
+        "ymax": 1761.908203125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "jjcDTojXT7S2eT2DUF6ZDw",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3237.09375,
+        "ymin": 1523.056640625,
+        "xmax": 3322.7578125,
+        "ymax": 1565.384765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ur6qk_vyS0Gg3LErTWWMPQ",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3225.0,
+        "ymin": 1497.357421875,
+        "xmax": 3335.859375,
+        "ymax": 1530.615234375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

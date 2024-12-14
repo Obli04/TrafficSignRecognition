@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "zrr8f9p52f56tt0t18vt19",
+      "label": "warning--roadworks--g1",
+      "bbox": {
+        "xmin": 20.71875,
+        "ymin": 1024.98046875,
+        "xmax": 195.234375,
+        "ymax": 1186.34765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "aju777g4tdncjq3dbq5vwp",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3056.8125,
+        "ymin": 311.37890625,
+        "xmax": 3142.875,
+        "ymax": 431.5078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

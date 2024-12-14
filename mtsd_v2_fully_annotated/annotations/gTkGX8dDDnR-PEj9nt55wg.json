@@ -1,0 +1,49 @@
+{
+  "width": 4608,
+  "height": 3456,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "n6n93leg9y0tgn2nu007o7",
+      "label": "warning--road-narrows-right--g1",
+      "bbox": {
+        "xmin": 2072.25,
+        "ymin": 1882.40625,
+        "xmax": 2092.5,
+        "ymax": 1900.96875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "iejli2z529gijieju6zfrn",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2165.625,
+        "ymin": 1879.875,
+        "xmax": 2196.0,
+        "ymax": 1890.84375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

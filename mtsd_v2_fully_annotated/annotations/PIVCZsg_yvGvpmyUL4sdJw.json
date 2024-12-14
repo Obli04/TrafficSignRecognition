@@ -1,0 +1,49 @@
+{
+  "width": 2560,
+  "height": 1920,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "c76ob3g514g82613us1cjv",
+      "label": "regulatory--priority-road--g4",
+      "bbox": {
+        "xmin": 2265.0,
+        "ymin": 1365.46875,
+        "xmax": 2307.5,
+        "ymax": 1416.5625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "p5blhdsxspkfu87c261uc6",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2269.375,
+        "ymin": 1343.90625,
+        "xmax": 2313.125,
+        "ymax": 1370.15625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

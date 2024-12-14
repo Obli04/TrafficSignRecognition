@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "7oeotmb98yckebqndl5rcw",
+      "label": "warning--wombat-crossing--g1",
+      "bbox": {
+        "xmin": 463.78125,
+        "ymin": 1193.51953125,
+        "xmax": 624.75,
+        "ymax": 1339.34765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "q5sustkal1a27emjb5i6oj",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 466.96875,
+        "ymin": 1336.359375,
+        "xmax": 621.5625,
+        "ymax": 1391.94140625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

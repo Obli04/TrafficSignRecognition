@@ -1,0 +1,49 @@
+{
+  "width": 1280,
+  "height": 720,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "fjg1unr4dj08kbgfehhlham2rm",
+      "label": "warning--emergency-vehicles--g1",
+      "bbox": {
+        "xmin": 716.25,
+        "ymin": 259.98046875,
+        "xmax": 740.9375,
+        "ymax": 283.88671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "6cq4ht4vgjr8qashlau3cq8dr0",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 684.0625,
+        "ymin": 275.09765625,
+        "xmax": 697.1875,
+        "ymax": 290.56640625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

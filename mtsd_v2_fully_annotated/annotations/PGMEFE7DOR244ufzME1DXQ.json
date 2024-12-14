@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "Qbr1_aCMRkKUve3bFvESCA",
+      "label": "regulatory--maximum-speed-limit-50--g1",
+      "bbox": {
+        "xmin": 1798.453125,
+        "ymin": 1867.11328125,
+        "xmax": 1822.078125,
+        "ymax": 1889.26171875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "dlEqOLvcSU-keAXVW2oCzg",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1798.453125,
+        "ymin": 1888.5234375,
+        "xmax": 1818.140625,
+        "ymax": 1899.59765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "width": 4608,
+  "height": 3456,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "sum92c90cbg1vpw2og10z8",
+      "label": "regulatory--bicycles-only--g1",
+      "bbox": {
+        "xmin": 1383.75,
+        "ymin": 1366.03125,
+        "xmax": 1437.75,
+        "ymax": 1420.03125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "gz9hrzpihpau4sjld4eam0",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 785.25,
+        "ymin": 1250.4375,
+        "xmax": 839.25,
+        "ymax": 1321.3125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "u0i6f8nsn2r4r38hoo8ix2",
+      "label": "regulatory--pedestrians-only--g1",
+      "bbox": {
+        "xmin": 2025.0,
+        "ymin": 1447.03125,
+        "xmax": 2065.5,
+        "ymax": 1485.84375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "lip4kiyykc9m0vkgi3pkan",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1386.0,
+        "ymin": 1423.40625,
+        "xmax": 1428.75,
+        "ymax": 1446.1875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "r4cman7eq6qlrk4vxe6owy",
+      "label": "information--bus-stop--g1",
+      "bbox": {
+        "xmin": 789.75,
+        "ymin": 1254.65625,
+        "xmax": 834.75,
+        "ymax": 1296.0
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

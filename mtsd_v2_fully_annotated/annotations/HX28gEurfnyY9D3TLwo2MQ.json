@@ -1,0 +1,70 @@
+{
+  "width": 4160,
+  "height": 3120,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "doeaf6lj4im8idxcj4pc6r",
+      "label": "warning--railroad-crossing-without-barriers--g4",
+      "bbox": {
+        "xmin": 2158.203125,
+        "ymin": 1886.77734375,
+        "xmax": 2286.171875,
+        "ymax": 2016.26953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ht64xahlvso8yoxptlidbz",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2173.4375,
+        "ymin": 2017.03125,
+        "xmax": 2267.890625,
+        "ymax": 2084.0625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "0803ox26p8dsheen07lh5i",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2255.703125,
+        "ymin": 2050.546875,
+        "xmax": 2282.109375,
+        "ymax": 2077.20703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "width": 4608,
+  "height": 3456,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "_CEmCQPDSx2k9gO2jFSGIA",
+      "label": "regulatory--bicycles-only--g1",
+      "bbox": {
+        "xmin": 2643.75,
+        "ymin": 1016.71875,
+        "xmax": 2688.75,
+        "ymax": 1065.65625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "LPrXIjAQRhC811MucEF0Rg",
+      "label": "regulatory--no-motorcycles--g2",
+      "bbox": {
+        "xmin": 2678.625,
+        "ymin": 1026.0,
+        "xmax": 2730.375,
+        "ymax": 1080.84375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

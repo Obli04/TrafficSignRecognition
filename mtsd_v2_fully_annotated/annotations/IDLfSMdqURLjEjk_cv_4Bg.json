@@ -1,0 +1,70 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "o4ox9o4vlqell37w7wpo9e",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2487.84375,
+        "ymin": 1212.046875,
+        "xmax": 2546.8125,
+        "ymax": 1339.34765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "sf8mj1rl564viambeq3tf9",
+      "label": "information--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 2189.8125,
+        "ymin": 1395.52734375,
+        "xmax": 2258.34375,
+        "ymax": 1464.85546875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "u4feqgw0oyuqkl41r7pdag",
+      "label": "complementary--extent-of-prohibition-area-both-direction--g1",
+      "bbox": {
+        "xmin": 2499.0,
+        "ymin": 1335.1640625,
+        "xmax": 2544.421875,
+        "ymax": 1384.76953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

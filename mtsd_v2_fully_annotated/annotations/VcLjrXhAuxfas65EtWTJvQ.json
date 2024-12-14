@@ -1,0 +1,49 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "61kd424k4u4eyaomta9r2z",
+      "label": "regulatory--pass-on-either-side--g2",
+      "bbox": {
+        "xmin": 825.9375,
+        "ymin": 89.6484375,
+        "xmax": 951.09375,
+        "ymax": 214.62890625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "zurefky0z63g73uxt1jkyp",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 964.21875,
+        "ymin": 110.478515625,
+        "xmax": 1195.3125,
+        "ymax": 254.970703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

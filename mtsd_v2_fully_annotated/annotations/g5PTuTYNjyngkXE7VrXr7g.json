@@ -1,0 +1,70 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "c3mgepmufqmkefbuj5ml29",
+      "label": "information--telephone--g2",
+      "bbox": {
+        "xmin": 2405.765625,
+        "ymin": 1109.25,
+        "xmax": 2457.5625,
+        "ymax": 1161.84375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": true
+      }
+    },
+    {
+      "key": "jhzqf2dylxaiws4ck3hvsu",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1640.765625,
+        "ymin": 1213.2421875,
+        "xmax": 1696.546875,
+        "ymax": 1252.6875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "7qxkzxf7s2jcev6c89fbed",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1780.21875,
+        "ymin": 1245.515625,
+        "xmax": 1791.375,
+        "ymax": 1258.06640625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

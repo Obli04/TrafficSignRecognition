@@ -1,0 +1,49 @@
+{
+  "width": 2560,
+  "height": 1920,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "5W2BFsoAT3-sJHtkfW2vQw",
+      "label": "regulatory--no-parking--g2",
+      "bbox": {
+        "xmin": 1979.375,
+        "ymin": 838.59375,
+        "xmax": 2070.625,
+        "ymax": 923.4375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "BqNTr2j_S2-CF59DK889cQ",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1973.125,
+        "ymin": 942.1875,
+        "xmax": 2069.375,
+        "ymax": 974.0625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

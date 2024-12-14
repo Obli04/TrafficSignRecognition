@@ -1,0 +1,175 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "6kxaxd2qtsjeaz786flukn",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1312.171875,
+        "ymin": 1324.4765625,
+        "xmax": 1491.328125,
+        "ymax": 1403.47265625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "lupmyvyjhhtzosej2yinxv",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3192.328125,
+        "ymin": 902.1796875,
+        "xmax": 3402.984375,
+        "ymax": 1275.01171875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "995nv26y482wopafkt4cfv",
+      "label": "information--stairs--g1",
+      "bbox": {
+        "xmin": 1778.765625,
+        "ymin": 1622.7421875,
+        "xmax": 1829.953125,
+        "ymax": 1673.68359375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "k7pn3j26aj3oixhvbluc0l",
+      "label": "regulatory--pedestrians-only--g2",
+      "bbox": {
+        "xmin": 1856.53125,
+        "ymin": 1543.74609375,
+        "xmax": 1875.234375,
+        "ymax": 1610.9296875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "zu6dax4dpnskomkq0we7dc",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1335.796875,
+        "ymin": 1020.3046875,
+        "xmax": 1467.703125,
+        "ymax": 1101.515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "2ikipj3vc6bj4safmcd1td",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1242.28125,
+        "ymin": 973.0546875,
+        "xmax": 1395.84375,
+        "ymax": 1122.1875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "99stanl7wu81mnc8nmf53o",
+      "label": "information--stairs--g1",
+      "bbox": {
+        "xmin": 893.8125,
+        "ymin": 1653.75,
+        "xmax": 914.484375,
+        "ymax": 1686.234375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "apu415xevqtrf82x7mf6om",
+      "label": "complementary--buses--g1",
+      "bbox": {
+        "xmin": 3210.046875,
+        "ymin": 921.375,
+        "xmax": 3388.21875,
+        "ymax": 1088.96484375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

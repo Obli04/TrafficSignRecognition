@@ -1,0 +1,49 @@
+{
+  "width": 2448,
+  "height": 3264,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "93riyl3zd44tex2eo1jpg2",
+      "label": "regulatory--passing-lane-ahead--g1",
+      "bbox": {
+        "xmin": 1662.08203125,
+        "ymin": 1847.15625,
+        "xmax": 1879.62890625,
+        "ymax": 2108.53125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "e1jkvrosokg43jkxl9zj6y",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1729.6171875,
+        "ymin": 1673.4375,
+        "xmax": 1864.08984375,
+        "ymax": 1849.546875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

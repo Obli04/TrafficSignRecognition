@@ -1,0 +1,49 @@
+{
+  "width": 4608,
+  "height": 3456,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "4fev8izb50fg0m1hzl5r6c",
+      "label": "information--parking--g3",
+      "bbox": {
+        "xmin": 2945.25,
+        "ymin": 2283.1875,
+        "xmax": 3000.375,
+        "ymax": 2339.71875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "074lk701aeqd5uiff5bm96",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2931.75,
+        "ymin": 2273.90625,
+        "xmax": 3021.75,
+        "ymax": 2394.5625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

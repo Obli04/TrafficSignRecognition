@@ -1,0 +1,70 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "tf0o8vcbv83j57hrm5c92s2epv",
+      "label": "information--hospital--g1",
+      "bbox": {
+        "xmin": 2141.015625,
+        "ymin": 1762.27734375,
+        "xmax": 2261.109375,
+        "ymax": 1963.08984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ujcl8qqul63h5ifhf7qrqghnsi",
+      "label": "regulatory--one-way-left--g3",
+      "bbox": {
+        "xmin": 3330.140625,
+        "ymin": 1855.30078125,
+        "xmax": 3576.234375,
+        "ymax": 1946.84765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "pk0o4r8gcl20dor6g5b2t3maen",
+      "label": "regulatory--one-way-left--g1",
+      "bbox": {
+        "xmin": 2138.0625,
+        "ymin": 1952.75390625,
+        "xmax": 2263.078125,
+        "ymax": 2016.984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

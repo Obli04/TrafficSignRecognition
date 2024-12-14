@@ -1,0 +1,49 @@
+{
+  "width": 2048,
+  "height": 1536,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "btveduucezhyn72w86ykry",
+      "label": "warning--winding-road-first-right--g3",
+      "bbox": {
+        "xmin": 587.0,
+        "ymin": 720.0,
+        "xmax": 653.0,
+        "ymax": 775.875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "wyzre5prs29dwbc6sdbb3p",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 588.0,
+        "ymin": 770.25,
+        "xmax": 650.5,
+        "ymax": 795.75
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

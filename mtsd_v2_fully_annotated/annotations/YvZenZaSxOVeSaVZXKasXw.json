@@ -1,0 +1,112 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "YoMZ-5bTRi6TJnILksXNwQ",
+      "label": "regulatory--maximum-speed-limit-25--g1",
+      "bbox": {
+        "xmin": 1966.6875,
+        "ymin": 1189.93359375,
+        "xmax": 1998.5625,
+        "ymax": 1222.8046875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "-Te_a_pKTzGfzCl7tzqL4g",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1968.28125,
+        "ymin": 1222.8046875,
+        "xmax": 1999.359375,
+        "ymax": 1238.94140625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "OTcI7QVuQzSniapJCRdcrw",
+      "label": "complementary--obstacle-delineator--g2",
+      "bbox": {
+        "xmin": 1382.578125,
+        "ymin": 1299.3046875,
+        "xmax": 1400.90625,
+        "ymax": 1358.47265625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "d8UBpcbJQoW6abvJAlTn3w",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1179.375,
+        "ymin": 1306.4765625,
+        "xmax": 1200.890625,
+        "ymax": 1374.01171875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "Flf1F1W0SjuYJVv7ydsI5A",
+      "label": "complementary--obstacle-delineator--g2",
+      "bbox": {
+        "xmin": 953.0625,
+        "ymin": 1341.140625,
+        "xmax": 977.765625,
+        "ymax": 1404.4921875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

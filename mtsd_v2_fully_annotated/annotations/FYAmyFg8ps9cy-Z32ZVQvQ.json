@@ -1,0 +1,49 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "3i6af7uzt1k6m56abqfji4",
+      "label": "warning--kangaloo-crossing--g1",
+      "bbox": {
+        "xmin": 1424.8046875,
+        "ymin": 2479.98046875,
+        "xmax": 1453.125,
+        "ymax": 2511.474609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "vpxyevj1l05evx3qx5rrhy",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1428.7109375,
+        "ymin": 2515.869140625,
+        "xmax": 1447.265625,
+        "ymax": 2527.587890625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

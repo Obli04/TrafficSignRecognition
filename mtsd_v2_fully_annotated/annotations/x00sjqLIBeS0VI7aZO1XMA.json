@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 1836,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "ua3h02wub3x65ecz949ush",
+      "label": "warning--offset-roads--g3",
+      "bbox": {
+        "xmin": 1579.40625,
+        "ymin": 991.9599609375,
+        "xmax": 1600.125,
+        "ymax": 1015.2685546875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "5q76jebfqsz35496ctamyt",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1702.921875,
+        "ymin": 1000.9248046875,
+        "xmax": 1718.859375,
+        "ymax": 1026.0263671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

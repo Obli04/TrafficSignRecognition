@@ -1,0 +1,49 @@
+{
+  "width": 2560,
+  "height": 1920,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "ulnxvukzfhxy7l5qc259oa",
+      "label": "regulatory--no-heavy-goods-vehicles--g5",
+      "bbox": {
+        "xmin": 481.875,
+        "ymin": 1272.65625,
+        "xmax": 538.125,
+        "ymax": 1334.53125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "sz7b7chzufwv4sv3s769vj",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1113.75,
+        "ymin": 1383.28125,
+        "xmax": 1150.625,
+        "ymax": 1428.28125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

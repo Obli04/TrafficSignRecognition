@@ -1,0 +1,49 @@
+{
+  "width": 2560,
+  "height": 1920,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "KKTrlHfORau-6NoVAmY0yA",
+      "label": "warning--railroad-intersection--g3",
+      "bbox": {
+        "xmin": 1259.375,
+        "ymin": 1060.3125,
+        "xmax": 1280.625,
+        "ymax": 1083.28125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "bMtnUGw-Qp-UvCH6LQzYgg",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1265.0,
+        "ymin": 1082.8125,
+        "xmax": 1275.625,
+        "ymax": 1098.75
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

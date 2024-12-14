@@ -1,0 +1,112 @@
+{
+  "width": 4032,
+  "height": 2268,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "o1rxf7dh3zjc8dc01og35c",
+      "label": "warning--traffic-signals--g3",
+      "bbox": {
+        "xmin": 2142.0,
+        "ymin": 1071.4306640625,
+        "xmax": 2198.109375,
+        "ymax": 1127.9091796875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "d7kxh86ahxkxjv371ss7a8",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2155.78125,
+        "ymin": 1128.462890625,
+        "xmax": 2184.328125,
+        "ymax": 1148.9501953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "brpxdyhuodpjlezxtpte4g",
+      "label": "regulatory--passing-lane-ahead--g1",
+      "bbox": {
+        "xmin": 2139.046875,
+        "ymin": 1127.35546875,
+        "xmax": 2160.703125,
+        "ymax": 1139.537109375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "lgeo11irnpxz4e4hrqb4m7",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2454.046875,
+        "ymin": 1014.9521484375,
+        "xmax": 2463.890625,
+        "ymax": 1024.365234375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "jgitgah42nlrwx4y74gskz",
+      "label": "regulatory--maximum-speed-limit-25--g2",
+      "bbox": {
+        "xmin": 2140.03125,
+        "ymin": 1099.1162109375,
+        "xmax": 2159.71875,
+        "ymax": 1127.35546875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

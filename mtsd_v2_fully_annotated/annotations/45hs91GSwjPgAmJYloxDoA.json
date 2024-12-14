@@ -1,0 +1,49 @@
+{
+  "width": 3840,
+  "height": 2880,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "paok0gz20gencmeyl4ezoi",
+      "label": "warning--crossroads-with-priority-to-the-right--g1",
+      "bbox": {
+        "xmin": 2102.8125,
+        "ymin": 1208.671875,
+        "xmax": 2175.0,
+        "ymax": 1274.765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "8cmhcmgyv6564lp28n6oc0",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2078.4375,
+        "ymin": 1292.34375,
+        "xmax": 2096.25,
+        "ymax": 1312.734375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

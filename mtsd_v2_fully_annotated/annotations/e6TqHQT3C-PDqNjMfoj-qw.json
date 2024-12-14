@@ -1,0 +1,70 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "q3iovasv1qd4kjf4nppfld2o1k",
+      "label": "warning--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 3338.8671875,
+        "ymin": 1605.46875,
+        "xmax": 3565.4296875,
+        "ymax": 1815.673828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "b1ol4kb51vut76motej9k0tv2",
+      "label": "regulatory--maximum-speed-limit-30--g1",
+      "bbox": {
+        "xmin": 2328.125,
+        "ymin": 1929.931640625,
+        "xmax": 2385.7421875,
+        "ymax": 1987.060546875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "lnc8aaoget6d9dj45f60i0odu2",
+      "label": "warning--junction-with-a-side-road-perpendicular-right--g1",
+      "bbox": {
+        "xmin": 2252.9296875,
+        "ymin": 1899.90234375,
+        "xmax": 2296.875,
+        "ymax": 1943.84765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

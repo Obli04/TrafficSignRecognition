@@ -1,0 +1,49 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "g6ql5x8iepmn6ymgp566ww",
+      "label": "warning--pedestrians-crossing--g4",
+      "bbox": {
+        "xmin": 3445.3125,
+        "ymin": 1396.728515625,
+        "xmax": 3631.8359375,
+        "ymax": 1593.75
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "d5m3qa8p17ycuu8jlp62k8",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2121.09375,
+        "ymin": 1480.95703125,
+        "xmax": 2144.53125,
+        "ymax": 1508.056640625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "1ABcpPpDQxWPfVvi5VV4Cg",
+      "label": "warning--railroad-crossing-without-barriers--g3",
+      "bbox": {
+        "xmin": 1094.0625,
+        "ymin": 631.23046875,
+        "xmax": 1123.125,
+        "ymax": 656.806640625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "BbbU14E3SICECi_lZK5aqg",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 564.375,
+        "ymin": 623.84765625,
+        "xmax": 589.21875,
+        "ymax": 648.896484375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

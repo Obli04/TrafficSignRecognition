@@ -1,0 +1,112 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "53f04ip2xu1zk4iw2dcjxw",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3050.4375,
+        "ymin": 1642.95703125,
+        "xmax": 3163.59375,
+        "ymax": 1750.53515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": true,
+        "dummy": false
+      }
+    },
+    {
+      "key": "v78atc6666urethhtyzop7",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1800.140625,
+        "ymin": 1876.04296875,
+        "xmax": 1823.25,
+        "ymax": 1904.1328125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "t5v0gqabeh7i8nzhaeou1g",
+      "label": "regulatory--no-pedestrians--g2",
+      "bbox": {
+        "xmin": 793.6875,
+        "ymin": 1897.55859375,
+        "xmax": 816.796875,
+        "ymax": 1966.2890625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "50xscgbv0fuqlkofho2zer",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3181.921875,
+        "ymin": 1802.53125,
+        "xmax": 3226.546875,
+        "ymax": 1855.125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": true
+      }
+    },
+    {
+      "key": "dv9tki477e2rjxhyuuagmg",
+      "label": "regulatory--no-parking-or-no-stopping--g3",
+      "bbox": {
+        "xmin": 3087.09375,
+        "ymin": 1752.92578125,
+        "xmax": 3136.5,
+        "ymax": 1828.828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "C-4OJFQPRVWjBmiLUMu_yA",
+      "label": "regulatory--stop-signals--g1",
+      "bbox": {
+        "xmin": 1022.4609375,
+        "ymin": 1761.474609375,
+        "xmax": 1093.75,
+        "ymax": 1835.44921875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": true
+      }
+    },
+    {
+      "key": "KQhfM_5gTjWmdI9dubgtOw",
+      "label": "regulatory--keep-left--g1",
+      "bbox": {
+        "xmin": 2578.125,
+        "ymin": 1377.685546875,
+        "xmax": 2745.1171875,
+        "ymax": 1539.55078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "oH5Pnq5aRkKwlfw4sYAglA",
+      "label": "complementary--obstacle-delineator--g2",
+      "bbox": {
+        "xmin": 2616.2109375,
+        "ymin": 1557.861328125,
+        "xmax": 2719.7265625,
+        "ymax": 1729.98046875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "imML9PKZS_OxTl3cF0rGXg",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3434.5703125,
+        "ymin": 1798.828125,
+        "xmax": 3500.0,
+        "ymax": 1924.072265625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": true
+      }
+    },
+    {
+      "key": "9GXsgMZbQZOqMDiId3H0fA",
+      "label": "regulatory--stop-signals--g1",
+      "bbox": {
+        "xmin": 1818.359375,
+        "ymin": 1735.107421875,
+        "xmax": 1841.796875,
+        "ymax": 1757.080078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "iatngs1xa1qy4ksm1lkcsg",
+      "label": "warning--trucks-crossing--g1",
+      "bbox": {
+        "xmin": 2533.203125,
+        "ymin": 2438.96484375,
+        "xmax": 2580.078125,
+        "ymax": 2483.642578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "gt3vhr5kk75urnn465jm09",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3090.8203125,
+        "ymin": 2507.8125,
+        "xmax": 3109.375,
+        "ymax": 2534.1796875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "dvlbtifnbrdymmpewgqzrj",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2742.1875,
+        "ymin": 2488.76953125,
+        "xmax": 2757.8125,
+        "ymax": 2515.13671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

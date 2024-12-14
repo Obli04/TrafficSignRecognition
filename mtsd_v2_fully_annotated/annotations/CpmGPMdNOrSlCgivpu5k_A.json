@@ -1,0 +1,238 @@
+{
+  "width": 2048,
+  "height": 1536,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "cljyowlgcfqjg036py0i8m",
+      "label": "information--tram-bus-stop--g2",
+      "bbox": {
+        "xmin": 1360.5,
+        "ymin": 681.0,
+        "xmax": 1395.0,
+        "ymax": 727.875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "u5vgb41nvbgtgzzkblyt0l",
+      "label": "information--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 1568.0,
+        "ymin": 532.5,
+        "xmax": 1707.5,
+        "ymax": 666.75
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "e1q5vwdcul2gptj06abz97",
+      "label": "regulatory--keep-left--g1",
+      "bbox": {
+        "xmin": 1098.5,
+        "ymin": 777.375,
+        "xmax": 1132.0,
+        "ymax": 811.5
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": true
+      }
+    },
+    {
+      "key": "np0ddk7qp3eo5j5qfl4zu1",
+      "label": "information--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 186.0,
+        "ymin": 257.625,
+        "xmax": 287.5,
+        "ymax": 355.125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "cfzori9opndvd8pkkeo57a",
+      "label": "information--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 831.0,
+        "ymin": 252.375,
+        "xmax": 924.0,
+        "ymax": 348.375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "lr942m18gcdz7zvz7k8itp",
+      "label": "warning--roadworks--g1",
+      "bbox": {
+        "xmin": 1203.5,
+        "ymin": 776.25,
+        "xmax": 1236.0,
+        "ymax": 808.125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": true
+      }
+    },
+    {
+      "key": "wvstopzltp2judptsz4oku",
+      "label": "regulatory--maximum-speed-limit-40--g1",
+      "bbox": {
+        "xmin": 1087.0,
+        "ymin": 703.875,
+        "xmax": 1112.0,
+        "ymax": 727.875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "10ljdbb7upg6vd7lufhwek",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1006.5,
+        "ymin": 780.0,
+        "xmax": 1027.5,
+        "ymax": 800.625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "uz4cr7l57p7tqhtbnn4wp7",
+      "label": "regulatory--no-overtaking--g1",
+      "bbox": {
+        "xmin": 1088.0,
+        "ymin": 732.0,
+        "xmax": 1112.5,
+        "ymax": 757.125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "z3rigezu0of5x1wgw0guai",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1008.5,
+        "ymin": 802.875,
+        "xmax": 1026.0,
+        "ymax": 810.0
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "vfwj43cufiinn7jkow98db",
+      "label": "information--tram-bus-stop--g2",
+      "bbox": {
+        "xmin": 502.0,
+        "ymin": 784.875,
+        "xmax": 520.0,
+        "ymax": 811.5
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

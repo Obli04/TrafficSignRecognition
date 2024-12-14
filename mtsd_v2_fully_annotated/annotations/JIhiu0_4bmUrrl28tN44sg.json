@@ -1,0 +1,112 @@
+{
+  "width": 4632,
+  "height": 3474,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "s369xx6ulxnpkm35hbgoav",
+      "label": "regulatory--maximum-speed-limit-40--g1",
+      "bbox": {
+        "xmin": 2615.677734375,
+        "ymin": 1558.04150390625,
+        "xmax": 2692.576171875,
+        "ymax": 1630.1337890625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "mt77hl9m6m9qvww7z4m0yi",
+      "label": "warning--curve-left--g2",
+      "bbox": {
+        "xmin": 2356.7109375,
+        "ymin": 1649.64111328125,
+        "xmax": 2392.8984375,
+        "ymax": 1686.111328125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "76bzduir35lqkqu0rulhie",
+      "label": "warning--pedestrians-crossing--g4",
+      "bbox": {
+        "xmin": 2603.23828125,
+        "ymin": 1629.28564453125,
+        "xmax": 2699.361328125,
+        "ymax": 1720.88525390625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "xd1bh1le0zn0ro2xcn2o5u",
+      "label": "warning--road-bump--g2",
+      "bbox": {
+        "xmin": 4000.98046875,
+        "ymin": 978.7587890625,
+        "xmax": 4601.466796875,
+        "ymax": 1541.9267578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "mjme0hqs4vlxiqg0v5letj",
+      "label": "warning--road-bump--g2",
+      "bbox": {
+        "xmin": 3936.521484375,
+        "ymin": 881.22216796875,
+        "xmax": 4628.607421875,
+        "ymax": 1796.3701171875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": true,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

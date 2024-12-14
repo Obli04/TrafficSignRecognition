@@ -1,0 +1,112 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "wql74zzcjnz26ap6licp8s",
+      "label": "regulatory--roundabout--g1",
+      "bbox": {
+        "xmin": 1082.8125,
+        "ymin": 629.912109375,
+        "xmax": 1103.90625,
+        "ymax": 652.8515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ylo28nxj7lahxd36nh8r50",
+      "label": "regulatory--yield--g1",
+      "bbox": {
+        "xmin": 1082.34375,
+        "ymin": 599.853515625,
+        "xmax": 1107.1875,
+        "ymax": 624.90234375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "40c60c5g30ycjv8uhkcml7",
+      "label": "regulatory--turn-left--g1",
+      "bbox": {
+        "xmin": 878.90625,
+        "ymin": 650.478515625,
+        "xmax": 894.84375,
+        "ymax": 666.03515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "7tjel6yn5gzhdtod4mhw4f",
+      "label": "regulatory--yield--g1",
+      "bbox": {
+        "xmin": 725.15625,
+        "ymin": 566.89453125,
+        "xmax": 758.90625,
+        "ymax": 595.107421875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "772x26hoqwax292vc1ark1",
+      "label": "regulatory--roundabout--g1",
+      "bbox": {
+        "xmin": 724.21875,
+        "ymin": 602.490234375,
+        "xmax": 752.34375,
+        "ymax": 629.912109375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

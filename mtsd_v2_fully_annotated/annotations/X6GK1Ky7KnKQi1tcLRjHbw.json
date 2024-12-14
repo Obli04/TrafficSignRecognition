@@ -1,0 +1,49 @@
+{
+  "width": 2560,
+  "height": 1920,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "hzmwhe8wpcn4m2ksnvxeb5",
+      "label": "information--disabled-persons--g1",
+      "bbox": {
+        "xmin": 1526.25,
+        "ymin": 1258.125,
+        "xmax": 1551.875,
+        "ymax": 1288.125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": true
+      }
+    },
+    {
+      "key": "9b3lniwd7stmgvyymsywf2",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2131.25,
+        "ymin": 728.90625,
+        "xmax": 2318.75,
+        "ymax": 1025.625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

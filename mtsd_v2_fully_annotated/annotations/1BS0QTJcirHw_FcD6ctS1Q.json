@@ -1,0 +1,70 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "acqa2zfumuhns04o61wlyk",
+      "label": "regulatory--no-heavy-goods-vehicles--g4",
+      "bbox": {
+        "xmin": 3306.515625,
+        "ymin": 1199.70703125,
+        "xmax": 3460.078125,
+        "ymax": 1346.625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "92vtamnmg9f290gzisx266",
+      "label": "complementary--chevron-left--g5",
+      "bbox": {
+        "xmin": 2137.078125,
+        "ymin": 1973.42578125,
+        "xmax": 2159.71875,
+        "ymax": 1998.52734375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "aai7bhxr58w5rmvznj7m5u",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3137.203125,
+        "ymin": 1174.60546875,
+        "xmax": 3684.515625,
+        "ymax": 1871.54296875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

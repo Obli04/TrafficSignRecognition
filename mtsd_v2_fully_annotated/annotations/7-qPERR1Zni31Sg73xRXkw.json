@@ -1,0 +1,70 @@
+{
+  "width": 1280,
+  "height": 720,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "rbkQp15QQFy1JWRmK1qI6A",
+      "label": "warning--pedestrians-crossing--g4",
+      "bbox": {
+        "xmin": 869.375,
+        "ymin": 320.9765625,
+        "xmax": 925.3125,
+        "ymax": 376.69921875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "5HGy36VCRO2Ebciiw76ztQ",
+      "label": "information--tram-bus-stop--g2",
+      "bbox": {
+        "xmin": 1091.5625,
+        "ymin": 260.33203125,
+        "xmax": 1138.4375,
+        "ymax": 329.0625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "vdDDFHLGRdqAvk1w51rJ4w",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1100.0,
+        "ymin": 268.9453125,
+        "xmax": 1130.625,
+        "ymax": 305.33203125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

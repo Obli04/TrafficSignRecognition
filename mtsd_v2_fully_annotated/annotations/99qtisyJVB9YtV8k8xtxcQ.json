@@ -1,0 +1,133 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "bbtgc093nxfzhy8rfe7t0k",
+      "label": "warning--traffic-merges-left--g1",
+      "bbox": {
+        "xmin": 2501.296875,
+        "ymin": 1703.953125,
+        "xmax": 2630.25,
+        "ymax": 1842.01171875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "mvy2yeblrmyjsofavchza4",
+      "label": "regulatory--one-way-left--g3",
+      "bbox": {
+        "xmin": 2315.25,
+        "ymin": 1744.55859375,
+        "xmax": 2338.875,
+        "ymax": 1829.4609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "jt5s1uvf7nuz3jqwjqdjxx",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1125.140625,
+        "ymin": 1810.265625,
+        "xmax": 1251.140625,
+        "ymax": 1871.54296875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "yde35xonfqiqig58aq23zo",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2365.453125,
+        "ymin": 1790.33203125,
+        "xmax": 2383.171875,
+        "ymax": 1867.8515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "9heub6ljry02x6wi9s15gh",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2367.421875,
+        "ymin": 1627.91015625,
+        "xmax": 2386.125,
+        "ymax": 1787.37890625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "5y6bavt4ws60yuubodoem7",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2369.390625,
+        "ymin": 1566.6328125,
+        "xmax": 2384.15625,
+        "ymax": 1626.43359375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

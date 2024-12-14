@@ -1,0 +1,70 @@
+{
+  "width": 3840,
+  "height": 2160,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "i5vksko3m9kfa0j1dk1l09uavf",
+      "label": "regulatory--bicycles-only--g1",
+      "bbox": {
+        "xmin": 1326.5625,
+        "ymin": 1177.55859375,
+        "xmax": 1351.875,
+        "ymax": 1203.3984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "o2l69lvsc2u9d56ulc5c3qju4q",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1224.375,
+        "ymin": 1079.47265625,
+        "xmax": 1304.0625,
+        "ymax": 1158.57421875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ohc1vgudqatdlfapss6lklour",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1126.875,
+        "ymin": 1170.703125,
+        "xmax": 1142.8125,
+        "ymax": 1191.26953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

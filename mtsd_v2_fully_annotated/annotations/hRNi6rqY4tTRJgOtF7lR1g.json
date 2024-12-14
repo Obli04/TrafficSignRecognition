@@ -1,0 +1,49 @@
+{
+  "width": 1280,
+  "height": 720,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "usg29tynjds77fsr3wowzf",
+      "label": "complementary--trucks-turn-right--g1",
+      "bbox": {
+        "xmin": 750.625,
+        "ymin": 329.58984375,
+        "xmax": 792.5,
+        "ymax": 373.0078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "fjczay9m1sz9vbem6hp7uk",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 924.0625,
+        "ymin": 320.09765625,
+        "xmax": 1082.1875,
+        "ymax": 406.7578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

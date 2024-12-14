@@ -1,0 +1,49 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "eto2q74kmslak19nll3s7lmuq9",
+      "label": "regulatory--dual-lanes-go-straight-on-left--g1",
+      "bbox": {
+        "xmin": 896.25,
+        "ymin": 452.197265625,
+        "xmax": 913.125,
+        "ymax": 466.435546875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ene5sra173oj1hdfblcrul00a4",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 990.9375,
+        "ymin": 80.419921875,
+        "xmax": 1047.65625,
+        "ymax": 503.876953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

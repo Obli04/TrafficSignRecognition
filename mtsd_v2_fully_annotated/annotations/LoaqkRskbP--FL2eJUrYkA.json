@@ -1,0 +1,154 @@
+{
+  "width": 3984,
+  "height": 2988,
+  "ispano": true,
+  "objects": [
+    {
+      "key": "c2fqparm3fw84b1h6ace0x",
+      "label": "regulatory--yield--g1",
+      "bbox": {
+        "xmin": 2638.81640625,
+        "ymin": 1065.7880859375,
+        "xmax": 2733.1640625,
+        "ymax": 1160.6220703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ubkqp6c61ei22yv5s7b8uo",
+      "label": "regulatory--no-motor-vehicles-except-motorcycles--g1",
+      "bbox": {
+        "xmin": 1465.79296875,
+        "ymin": 1062.140625,
+        "xmax": 1504.69921875,
+        "ymax": 1179.5888671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "itqziy3j3ufzs70h99obzt",
+      "label": "regulatory--road-closed-to-vehicles--g3",
+      "bbox": {
+        "xmin": 3182.53125,
+        "ymin": 865.9072265625,
+        "xmax": 3246.7265625,
+        "ymax": 926.455078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "1dj4kk99gyvishuspl7jca",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3182.53125,
+        "ymin": 960.01171875,
+        "xmax": 3247.69921875,
+        "ymax": 979.7080078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "fc7sqpsswmka3s6driasze",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3182.53125,
+        "ymin": 922.078125,
+        "xmax": 3248.671875,
+        "ymax": 960.01171875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "56awqs3flmgaxt18p0hk6b",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1831.51171875,
+        "ymin": 1173.0234375,
+        "xmax": 1857.7734375,
+        "ymax": 1260.5625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "7axowpr2gu2s5bzi1bvdix",
+      "label": "regulatory--shared-path-pedestrians-and-bicycles--g1",
+      "bbox": {
+        "xmin": 1473.57421875,
+        "ymin": 1180.318359375,
+        "xmax": 1515.3984375,
+        "ymax": 1293.3896484375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

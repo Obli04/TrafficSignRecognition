@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "pwstvmwpharkl0fgwm0akn",
+      "label": "regulatory--parking-restrictions--g2",
+      "bbox": {
+        "xmin": 694.078125,
+        "ymin": 115.9453125,
+        "xmax": 984.9375,
+        "ymax": 846.28125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ic23w1orbu0pcui6lucexe",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1489.359375,
+        "ymin": 1221.609375,
+        "xmax": 1502.109375,
+        "ymax": 1244.3203125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

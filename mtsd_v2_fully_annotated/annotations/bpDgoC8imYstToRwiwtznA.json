@@ -1,0 +1,70 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "u572yju7s5pf14wvjq6uyk",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3526.3671875,
+        "ymin": 1770.99609375,
+        "xmax": 3831.0546875,
+        "ymax": 1943.115234375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "sfdjq19ruaaf8fpls8z26o",
+      "label": "information--trailer-camping--g1",
+      "bbox": {
+        "xmin": 3529.296875,
+        "ymin": 1940.91796875,
+        "xmax": 3588.8671875,
+        "ymax": 1997.314453125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ttsfrvifqocavr9kq6ceaa",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3615.234375,
+        "ymin": 1798.828125,
+        "xmax": 3669.921875,
+        "ymax": 1859.619140625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

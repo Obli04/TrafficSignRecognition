@@ -1,0 +1,112 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "nlplpqnn2tecvonq4je8su",
+      "label": "regulatory--one-way-right--g3",
+      "bbox": {
+        "xmin": 1453.59375,
+        "ymin": 498.603515625,
+        "xmax": 1497.65625,
+        "ymax": 520.224609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "llktp8ppbqmowh818rdnrz",
+      "label": "regulatory--no-right-turn--g1",
+      "bbox": {
+        "xmin": 1103.90625,
+        "ymin": 517.060546875,
+        "xmax": 1120.78125,
+        "ymax": 534.462890625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ibxc8kl37d9br51n893qh1",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1537.96875,
+        "ymin": 532.6171875,
+        "xmax": 1548.75,
+        "ymax": 553.447265625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "8ewr08akrp9xcr6e0vn9j9",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1102.03125,
+        "ymin": 515.478515625,
+        "xmax": 1122.65625,
+        "ymax": 545.2734375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "x23594qw9axxjxttmhwe59",
+      "label": "regulatory--no-right-turn--g1",
+      "bbox": {
+        "xmin": 1049.53125,
+        "ymin": 525.234375,
+        "xmax": 1064.53125,
+        "ymax": 540.791015625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

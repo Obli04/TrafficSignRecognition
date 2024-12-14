@@ -1,0 +1,49 @@
+{
+  "width": 1920,
+  "height": 870,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "ci5a9xe2dymxfullax8pb6",
+      "label": "warning--flaggers-in-road--g1",
+      "bbox": {
+        "xmin": 912.1875,
+        "ymin": 306.49658203125,
+        "xmax": 979.6875,
+        "ymax": 377.43896484375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "1hbvg0cb3ilncfk60zddjp",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1617.1875,
+        "ymin": 232.79296875,
+        "xmax": 1630.78125,
+        "ymax": 238.740234375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

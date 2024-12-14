@@ -1,0 +1,49 @@
+{
+  "width": 2560,
+  "height": 1920,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "bj07vxwjajbndb76wjgtd2",
+      "label": "information--gas-station--g1",
+      "bbox": {
+        "xmin": 549.375,
+        "ymin": 1062.65625,
+        "xmax": 585.0,
+        "ymax": 1096.40625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "5gu9puqp5cl8vqvrvzphly",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 849.375,
+        "ymin": 1057.5,
+        "xmax": 861.875,
+        "ymax": 1073.4375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

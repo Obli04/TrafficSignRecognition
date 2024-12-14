@@ -1,0 +1,133 @@
+{
+  "width": 4608,
+  "height": 3456,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "o5a4uvvzxdp6dod5uiexhl",
+      "label": "regulatory--stop--g1",
+      "bbox": {
+        "xmin": 2496.375,
+        "ymin": 2449.40625,
+        "xmax": 2557.125,
+        "ymax": 2548.125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "0f05h7prxavgpvxre68ml0",
+      "label": "warning--wild-animals--g4",
+      "bbox": {
+        "xmin": 1957.5,
+        "ymin": 2652.75,
+        "xmax": 1978.875,
+        "ymax": 2674.6875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "bd43wshq6ayz0jowsxgp23",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3211.875,
+        "ymin": 2170.96875,
+        "xmax": 3704.625,
+        "ymax": 2261.25
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "qzoqx6j766ovaw4x7zd6wi",
+      "label": "regulatory--reversible-lanes--g2",
+      "bbox": {
+        "xmin": 2250.0,
+        "ymin": 2481.46875,
+        "xmax": 2311.875,
+        "ymax": 2570.90625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "q0g8osx48bubijrosgfpda",
+      "label": "warning--junction-with-a-side-road-perpendicular-left--g3",
+      "bbox": {
+        "xmin": 1990.125,
+        "ymin": 2609.71875,
+        "xmax": 2032.875,
+        "ymax": 2651.90625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "do3wb1gql83q76xg9zmnkr",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1929.375,
+        "ymin": 2662.03125,
+        "xmax": 1944.0,
+        "ymax": 2678.0625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

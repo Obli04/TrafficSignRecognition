@@ -1,0 +1,49 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "w1a1g4i1mx77xh21m9xz6y",
+      "label": "warning--winding-road-first-right--g1",
+      "bbox": {
+        "xmin": 2268.5546875,
+        "ymin": 1409.1796875,
+        "xmax": 2306.640625,
+        "ymax": 1447.998046875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ouu3jheiywvd68oj35sblx",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2278.3203125,
+        "ymin": 1447.998046875,
+        "xmax": 2294.921875,
+        "ymax": 1464.84375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

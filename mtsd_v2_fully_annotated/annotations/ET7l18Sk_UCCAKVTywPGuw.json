@@ -1,0 +1,70 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "F-wXIZGiSnGUMDv1KQV8ZQ",
+      "label": "information--end-of-motorway--g1",
+      "bbox": {
+        "xmin": 2272.4609375,
+        "ymin": 814.453125,
+        "xmax": 2456.0546875,
+        "ymax": 1329.345703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "P03xYIhWSTOpuaPYPHbmuQ",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 843.75,
+        "ymin": 1026.123046875,
+        "xmax": 1339.84375,
+        "ymax": 1256.8359375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "-LjGaE3kQnCXeCrPwulpcg",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 534.1796875,
+        "ymin": 1413.57421875,
+        "xmax": 712.890625,
+        "ymax": 1478.759765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

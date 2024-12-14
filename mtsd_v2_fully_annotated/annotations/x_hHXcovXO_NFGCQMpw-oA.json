@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "rwspcoipy9mqtf3dy22tcm",
+      "label": "regulatory--turn-left--g1",
+      "bbox": {
+        "xmin": 1814.203125,
+        "ymin": 1226.28515625,
+        "xmax": 1867.359375,
+        "ymax": 1279.44140625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "uivcnqqdur5k4j54qsxo8v",
+      "label": "regulatory--road-closed-to-vehicles--g1",
+      "bbox": {
+        "xmin": 29.53125,
+        "ymin": 1115.54296875,
+        "xmax": 77.765625,
+        "ymax": 1187.15625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": true
+      }
+    }
+  ]
+}

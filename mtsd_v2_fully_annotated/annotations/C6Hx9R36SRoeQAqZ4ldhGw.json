@@ -1,0 +1,70 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "t5kh193wses0yqyy5quw4k",
+      "label": "regulatory--no-heavy-goods-vehicles--g2",
+      "bbox": {
+        "xmin": 3103.734375,
+        "ymin": 1906.98046875,
+        "xmax": 3159.84375,
+        "ymax": 1955.70703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "2iqbsl0dao1gbe7chu3vdl",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3097.828125,
+        "ymin": 1963.828125,
+        "xmax": 3149.015625,
+        "ymax": 2014.76953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "80u2f0g2v3nlq01grgfs91",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2893.078125,
+        "ymin": 1944.6328125,
+        "xmax": 2921.625,
+        "ymax": 1988.9296875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

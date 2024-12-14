@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "qq8zv5ud9zt9d89iwkd4hs",
+      "label": "warning--road-widens--g1",
+      "bbox": {
+        "xmin": 1467.84375,
+        "ymin": 1117.6171875,
+        "xmax": 1559.484375,
+        "ymax": 1204.875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "lcveo0axxnnbcp9ck6s9lo",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 482.109375,
+        "ymin": 1229.9765625,
+        "xmax": 528.328125,
+        "ymax": 1271.8125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

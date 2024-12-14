@@ -1,0 +1,70 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "4eimzbntwedfk6mhgqa946",
+      "label": "regulatory--dual-path-bicycles-and-pedestrians--g1",
+      "bbox": {
+        "xmin": 2927.71875,
+        "ymin": 1229.9765625,
+        "xmax": 2990.671875,
+        "ymax": 1290.33984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "c8r0v0ostyhdl536ovilyc",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1707.703125,
+        "ymin": 1421.2265625,
+        "xmax": 1719.65625,
+        "ymax": 1434.375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "eyit5kwzvbt8mxe7hbkvok",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2981.109375,
+        "ymin": 1215.03515625,
+        "xmax": 3032.109375,
+        "ymax": 1260.45703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

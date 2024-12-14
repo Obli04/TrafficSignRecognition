@@ -1,0 +1,112 @@
+{
+  "width": 1280,
+  "height": 768,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "jsgegw3709v85gfb8tp2sj",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 595.0,
+        "ymin": 222.375,
+        "xmax": 741.5625,
+        "ymax": 317.8125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "80hfgjcr8uu4v3izmc0ak4",
+      "label": "regulatory--no-heavy-goods-vehicles--g2",
+      "bbox": {
+        "xmin": 775.3125,
+        "ymin": 246.0,
+        "xmax": 803.125,
+        "ymax": 274.3125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "vtadzqpsv8mndtbuzlbr0z",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 750.0,
+        "ymin": 243.9375,
+        "xmax": 831.25,
+        "ymax": 301.3125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "pxdnbkuvqs4e6r6yma86zn",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 748.4375,
+        "ymin": 229.3125,
+        "xmax": 828.125,
+        "ymax": 244.5
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "87edidyu5aadm6qzq7u4lj",
+      "label": "information--disabled-persons--g1",
+      "bbox": {
+        "xmin": 714.375,
+        "ymin": 450.75,
+        "xmax": 725.625,
+        "ymax": 463.5
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": true
+      }
+    }
+  ]
+}

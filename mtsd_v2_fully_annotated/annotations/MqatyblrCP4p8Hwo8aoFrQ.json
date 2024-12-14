@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "ayw3mydfb0wlcdxh3dkbk3",
+      "label": "information--end-of-built-up-area--g1",
+      "bbox": {
+        "xmin": 2974.78125,
+        "ymin": 2270.21484375,
+        "xmax": 3129.328125,
+        "ymax": 2380.95703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "7m0lwlvnh7m5fwm6edmtv2",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2633.203125,
+        "ymin": 2394.984375,
+        "xmax": 2672.578125,
+        "ymax": 2420.82421875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

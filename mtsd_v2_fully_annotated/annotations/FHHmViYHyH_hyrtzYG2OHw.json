@@ -1,0 +1,112 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "5pfql5cbm76mkz6evh3i6o",
+      "label": "regulatory--no-stopping--g2",
+      "bbox": {
+        "xmin": 2367.515625,
+        "ymin": 1310.66015625,
+        "xmax": 2408.15625,
+        "ymax": 1352.49609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ujgfv3tkqaxf77uykn3ut6",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2357.15625,
+        "ymin": 1306.4765625,
+        "xmax": 2424.890625,
+        "ymax": 1406.28515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "jwzwix82iouyesxiqcjxg6",
+      "label": "regulatory--no-stopping--g2",
+      "bbox": {
+        "xmin": 2262.328125,
+        "ymin": 1461.8671875,
+        "xmax": 2295.0,
+        "ymax": 1497.12890625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "5gbu32ebboripka2smeuyv",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1875.84375,
+        "ymin": 1405.08984375,
+        "xmax": 1941.984375,
+        "ymax": 1485.17578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "5o9fhspvyma2xbm34yj3fs",
+      "label": "warning--pedestrians-crossing--g4",
+      "bbox": {
+        "xmin": 319.546875,
+        "ymin": 1338.75,
+        "xmax": 355.40625,
+        "ymax": 1406.28515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

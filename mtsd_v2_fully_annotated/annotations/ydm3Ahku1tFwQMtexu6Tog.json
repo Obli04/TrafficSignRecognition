@@ -1,0 +1,91 @@
+{
+  "width": 4160,
+  "height": 3120,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "EwAOtDkKTnSbOOFHxFufUA",
+      "label": "regulatory--maximum-speed-limit-40--g1",
+      "bbox": {
+        "xmin": 1415.78125,
+        "ymin": 1735.95703125,
+        "xmax": 1459.453125,
+        "ymax": 1787.75390625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "DEMsTxv6RsSEMmMGzFg54g",
+      "label": "warning--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 2727.96875,
+        "ymin": 1616.3671875,
+        "xmax": 2799.0625,
+        "ymax": 1691.015625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "dluchLWVRYKWwmHRfVpuuQ",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 642.890625,
+        "ymin": 1732.1484375,
+        "xmax": 757.65625,
+        "ymax": 1884.4921875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "SAnXUDisRAGh3pTvBbl7EA",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1485.859375,
+        "ymin": 1820.5078125,
+        "xmax": 1521.40625,
+        "ymax": 1868.49609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

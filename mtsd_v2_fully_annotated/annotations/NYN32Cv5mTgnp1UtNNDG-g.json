@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "al6mp5qb432owcl0rmpz75",
+      "label": "warning--domestic-animals--g1",
+      "bbox": {
+        "xmin": 2444.203125,
+        "ymin": 1834.62890625,
+        "xmax": 2539.6875,
+        "ymax": 1917.31640625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "yhsx6hdoqfkxzs85pnafxn",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1845.703125,
+        "ymin": 1899.59765625,
+        "xmax": 1856.53125,
+        "ymax": 1916.578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

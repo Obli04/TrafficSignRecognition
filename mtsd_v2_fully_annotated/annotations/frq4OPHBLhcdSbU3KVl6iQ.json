@@ -1,0 +1,49 @@
+{
+  "width": 4160,
+  "height": 3120,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "bv00yeb3ehd5fjjris48re",
+      "label": "regulatory--no-motorcycles--g1",
+      "bbox": {
+        "xmin": 1310.15625,
+        "ymin": 437.98828125,
+        "xmax": 1602.65625,
+        "ymax": 722.87109375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "bp3723uiji40b9puyqhlse",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1276.640625,
+        "ymin": 712.96875,
+        "xmax": 1572.1875,
+        "ymax": 840.17578125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

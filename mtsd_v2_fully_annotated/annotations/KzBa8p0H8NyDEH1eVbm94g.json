@@ -1,0 +1,49 @@
+{
+  "width": 4160,
+  "height": 3120,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "ol08uhj4xlqcoklg8xftvl",
+      "label": "regulatory--shared-path-pedestrians-and-bicycles--g1",
+      "bbox": {
+        "xmin": 2659.921875,
+        "ymin": 1299.4921875,
+        "xmax": 2826.484375,
+        "ymax": 1457.9296875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "nbg3l5yp6hpqmqapxtx26y",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2686.328125,
+        "ymin": 1460.9765625,
+        "xmax": 2800.078125,
+        "ymax": 1540.95703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

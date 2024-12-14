@@ -1,0 +1,112 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "0xwfu3gggsmv53wxyyiowa",
+      "label": "warning--pass-left-or-right--g2",
+      "bbox": {
+        "xmin": 2209.734375,
+        "ymin": 1475.015625,
+        "xmax": 2290.21875,
+        "ymax": 1560.48046875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "glz6z5m5grt8gnqjbzfz4v",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2252.765625,
+        "ymin": 1370.42578125,
+        "xmax": 2510.953125,
+        "ymax": 1521.6328125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "vs76gjfa4cgspajkpg0szr",
+      "label": "complementary--chevron-right--g1",
+      "bbox": {
+        "xmin": 2695.828125,
+        "ymin": 1510.27734375,
+        "xmax": 2737.265625,
+        "ymax": 1557.4921875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "wmc3x5jo6mw472nwoziaow",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2207.34375,
+        "ymin": 1390.74609375,
+        "xmax": 2287.03125,
+        "ymax": 1469.0390625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "tjoaya3bhy7yetqby5ujrb",
+      "label": "complementary--chevron-right--g1",
+      "bbox": {
+        "xmin": 2283.046875,
+        "ymin": 1484.578125,
+        "xmax": 2335.640625,
+        "ymax": 1555.1015625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

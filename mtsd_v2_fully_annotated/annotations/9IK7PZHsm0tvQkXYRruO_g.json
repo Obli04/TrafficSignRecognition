@@ -1,0 +1,49 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "uuh0wi6my164wvnuj9cixw",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1995.375,
+        "ymin": 1369.828125,
+        "xmax": 2071.875,
+        "ymax": 1465.453125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "177ta8qatgplfdlvf2swmq",
+      "label": "information--tram-bus-stop--g2",
+      "bbox": {
+        "xmin": 2004.9375,
+        "ymin": 1378.79296875,
+        "xmax": 2060.71875,
+        "ymax": 1435.5703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

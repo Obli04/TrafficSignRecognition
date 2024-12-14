@@ -1,0 +1,49 @@
+{
+  "width": 4032,
+  "height": 3024,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "ayn25i8gxpd3w6vrz5mpfy",
+      "label": "warning--divided-highway-ends--g1",
+      "bbox": {
+        "xmin": 761.90625,
+        "ymin": 1751.94140625,
+        "xmax": 934.171875,
+        "ymax": 1928.390625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "5v0bnipr5you2kn6ncjf9t",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 760.921875,
+        "ymin": 1938.7265625,
+        "xmax": 927.28125,
+        "ymax": 1988.9296875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

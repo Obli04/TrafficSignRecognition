@@ -1,0 +1,91 @@
+{
+  "width": 2048,
+  "height": 1536,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "0ldbp357lif84pw4uuwels",
+      "label": "information--parking--g3",
+      "bbox": {
+        "xmin": 1723.5,
+        "ymin": 811.875,
+        "xmax": 1789.5,
+        "ymax": 869.625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "0ogwcm9fn6rkcu7bcujh82",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1708.0,
+        "ymin": 799.5,
+        "xmax": 1823.5,
+        "ymax": 915.75
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "97thhphanq6b80uphr91nd",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1226.5,
+        "ymin": 902.625,
+        "xmax": 1242.5,
+        "ymax": 917.25
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "6yzt368nkb0tzxe5h5m8cp",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1458.0,
+        "ymin": 897.375,
+        "xmax": 1476.0,
+        "ymax": 914.25
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

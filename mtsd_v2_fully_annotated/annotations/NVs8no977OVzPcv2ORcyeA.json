@@ -1,0 +1,70 @@
+{
+  "width": 4160,
+  "height": 3120,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "pkmi67v1ga4drkfwuq9kos",
+      "label": "warning--junction-with-a-side-road-perpendicular-right--g3",
+      "bbox": {
+        "xmin": 2615.234375,
+        "ymin": 2367.421875,
+        "xmax": 2708.671875,
+        "ymax": 2458.828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "t81jl51glwn5rp0ot0isda",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2462.890625,
+        "ymin": 2426.07421875,
+        "xmax": 2500.46875,
+        "ymax": 2463.3984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "6gw3ijvfowpuamtjo5tvyo",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2368.4375,
+        "ymin": 2435.9765625,
+        "xmax": 2386.71875,
+        "ymax": 2455.78125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

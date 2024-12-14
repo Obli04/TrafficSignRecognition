@@ -1,0 +1,91 @@
+{
+  "width": 3840,
+  "height": 2160,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "2sph03dnpgo7n4pigzv2yo",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2039.0625,
+        "ymin": 971.89453125,
+        "xmax": 2160.0,
+        "ymax": 1081.58203125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "zpfdl1ke55ddsyhp0prm31",
+      "label": "warning--texts--g1",
+      "bbox": {
+        "xmin": 2001.5625,
+        "ymin": 794.1796875,
+        "xmax": 2203.125,
+        "ymax": 991.93359375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "bt5ajgao0l8ovpeaqit4ns",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3371.25,
+        "ymin": 575.859375,
+        "xmax": 3564.375,
+        "ymax": 709.27734375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "m6rwjfpwcoritjsxdr6s14",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3357.1875,
+        "ymin": 663.3984375,
+        "xmax": 3565.3125,
+        "ymax": 767.8125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

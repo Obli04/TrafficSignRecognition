@@ -1,0 +1,112 @@
+{
+  "width": 4128,
+  "height": 3096,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "zyaz9h3xf0i2cff95xt2tu",
+      "label": "regulatory--yield--g1",
+      "bbox": {
+        "xmin": 3125.2265625,
+        "ymin": 1848.83203125,
+        "xmax": 3257.25,
+        "ymax": 1964.478515625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "u0c7pnuwhc2z9590h2j3cl",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2900.484375,
+        "ymin": 2000.759765625,
+        "xmax": 2940.796875,
+        "ymax": 2071.810546875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "29dgqhg75ohndr0zahgoe5",
+      "label": "regulatory--roundabout--g1",
+      "bbox": {
+        "xmin": 3141.3515625,
+        "ymin": 1962.2109375,
+        "xmax": 3248.1796875,
+        "ymax": 2061.984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "8c9di6vtqx4urp4j3twc19",
+      "label": "regulatory--no-heavy-goods-vehicles--g1",
+      "bbox": {
+        "xmin": 2797.6875,
+        "ymin": 2096.75390625,
+        "xmax": 2828.9296875,
+        "ymax": 2124.720703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "e4quua61itgfylw4y9qd4p",
+      "label": "regulatory--road-closed-to-vehicles--g3",
+      "bbox": {
+        "xmin": 2127.4921875,
+        "ymin": 2043.087890625,
+        "xmax": 2165.7890625,
+        "ymax": 2077.857421875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

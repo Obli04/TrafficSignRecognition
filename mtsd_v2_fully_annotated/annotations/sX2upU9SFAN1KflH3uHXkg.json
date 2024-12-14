@@ -1,0 +1,70 @@
+{
+  "width": 4000,
+  "height": 3000,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "qjm2shqwg8wr1ycoc7r0rq",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 125.0,
+        "ymin": 2175.29296875,
+        "xmax": 262.6953125,
+        "ymax": 2316.650390625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "79gv3xv3u9a8zv6cqieh08",
+      "label": "warning--kangaloo-crossing--g1",
+      "bbox": {
+        "xmin": 309.5703125,
+        "ymin": 2181.884765625,
+        "xmax": 448.2421875,
+        "ymax": 2323.974609375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "fu0h1fgqhx4lzi52ohj54z",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 22.4609375,
+        "ymin": 2084.47265625,
+        "xmax": 530.2734375,
+        "ymax": 2458.0078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

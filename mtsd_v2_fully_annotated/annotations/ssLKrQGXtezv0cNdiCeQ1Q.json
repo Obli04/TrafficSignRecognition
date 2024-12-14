@@ -1,0 +1,112 @@
+{
+  "width": 2592,
+  "height": 1944,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "8fw7ha7bpokdlh719ygrja",
+      "label": "warning--pedestrians-crossing--g1",
+      "bbox": {
+        "xmin": 2359.125,
+        "ymin": 652.587890625,
+        "xmax": 2533.78125,
+        "ymax": 799.716796875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "yyuq1oqulapf7k38j160iu",
+      "label": "regulatory--no-overtaking--g1",
+      "bbox": {
+        "xmin": 2367.984375,
+        "ymin": 800.19140625,
+        "xmax": 2536.3125,
+        "ymax": 956.8125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "123qn5my9us42361zbzbtr",
+      "label": "information--gas-station--g3",
+      "bbox": {
+        "xmin": 2012.34375,
+        "ymin": 1010.443359375,
+        "xmax": 2092.7109375,
+        "ymax": 1127.197265625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "8xk2ln42uawnbf6vhud9mm",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 114.5390625,
+        "ymin": 839.109375,
+        "xmax": 260.71875,
+        "ymax": 974.84765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "zaavz6rl8rr6soh9bjhinm",
+      "label": "information--gas-station--g3",
+      "bbox": {
+        "xmin": 2023.734375,
+        "ymin": 1039.869140625,
+        "xmax": 2081.953125,
+        "ymax": 1099.1953125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "width": 5312,
+  "height": 2988,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "yn9v7zxl3u9rrfg09hu8f4",
+      "label": "regulatory--stop--g1",
+      "bbox": {
+        "xmin": 1823.40625,
+        "ymin": 1751.5107421875,
+        "xmax": 1844.15625,
+        "ymax": 1773.3955078125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "6a2j2m1ykn9elbojoyirmg",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2932.234375,
+        "ymin": 1701.9052734375,
+        "xmax": 3021.71875,
+        "ymax": 1785.0673828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "j2pwpjwx6g9yf8g8ehd3wn",
+      "label": "warning--railroad-intersection--g3",
+      "bbox": {
+        "xmin": 1532.90625,
+        "ymin": 1719.4130859375,
+        "xmax": 1579.59375,
+        "ymax": 1771.20703125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "4g2s9xag8vlvuqh5ojilqf",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2409.59375,
+        "ymin": 1761.7236328125,
+        "xmax": 2427.75,
+        "ymax": 1790.173828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "yp8n4vvekki2bjqwsetv6f",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2910.1875,
+        "ymin": 1798.927734375,
+        "xmax": 2982.8125,
+        "ymax": 1839.0498046875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

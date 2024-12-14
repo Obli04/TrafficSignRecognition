@@ -1,0 +1,49 @@
+{
+  "width": 4128,
+  "height": 3096,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "x0ldrcovxp1a81f5zd7014",
+      "label": "warning--two-way-traffic--g2",
+      "bbox": {
+        "xmin": 1627.6171875,
+        "ymin": 1860.92578125,
+        "xmax": 1658.859375,
+        "ymax": 1892.671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "fvli8fszxtdpqjfepxj5z3",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1407.9140625,
+        "ymin": 1770.978515625,
+        "xmax": 1577.2265625,
+        "ymax": 1859.4140625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

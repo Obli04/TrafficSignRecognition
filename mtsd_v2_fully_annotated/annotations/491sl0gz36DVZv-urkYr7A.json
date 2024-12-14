@@ -1,0 +1,70 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "fm6b2deipi53mlkh1ev75jjkd7",
+      "label": "information--airport--g2",
+      "bbox": {
+        "xmin": 2444.015625,
+        "ymin": 1589.765625,
+        "xmax": 2477.484375,
+        "ymax": 1632.19921875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "ae0obg94q20q2ue2d1ag9ajcbc",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2437.640625,
+        "ymin": 1632.796875,
+        "xmax": 2456.765625,
+        "ymax": 1653.71484375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "4u8mmss3sfq4l54hiehm7d4qqh",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1200.890625,
+        "ymin": 1655.5078125,
+        "xmax": 1216.828125,
+        "ymax": 1677.62109375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

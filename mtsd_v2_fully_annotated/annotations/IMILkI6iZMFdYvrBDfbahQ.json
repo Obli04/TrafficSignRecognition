@@ -1,0 +1,70 @@
+{
+  "width": 4032,
+  "height": 2268,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "3n3hycvnn97eiy2u66i242",
+      "label": "regulatory--keep-right--g1",
+      "bbox": {
+        "xmin": 921.375,
+        "ymin": 1423.037109375,
+        "xmax": 1016.859375,
+        "ymax": 1540.423828125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "9g5qstv6ga9ke61f32b11c",
+      "label": "regulatory--mopeds-and-bicycles-only--g1",
+      "bbox": {
+        "xmin": 858.375,
+        "ymin": 1270.212890625,
+        "xmax": 896.765625,
+        "ymax": 1350.5009765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "5wjy0qbvgebulxv9tmyokz",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 3970.96875,
+        "ymin": 1227.0234375,
+        "xmax": 4031.015625,
+        "ymax": 1333.8896484375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": true,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

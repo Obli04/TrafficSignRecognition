@@ -1,0 +1,49 @@
+{
+  "width": 4128,
+  "height": 3096,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "c0eh35bnhtfpygtf8mqr8e",
+      "label": "regulatory--truck-speed-limit-60--g1",
+      "bbox": {
+        "xmin": 2314.9453125,
+        "ymin": 1388.513671875,
+        "xmax": 2369.3671875,
+        "ymax": 1442.1796875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "j12275k4wkmzblo5g1nwxl",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2096.25,
+        "ymin": 1455.029296875,
+        "xmax": 2114.390625,
+        "ymax": 1471.658203125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

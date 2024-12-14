@@ -1,0 +1,112 @@
+{
+  "width": 3264,
+  "height": 2448,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "1xr26m43hk7pv0v0d1vn4s",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 1970.671875,
+        "ymin": 1580.80078125,
+        "xmax": 2008.921875,
+        "ymax": 1645.9453125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "3aqqpcdfq57dzlxy59nhdg",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2562.75,
+        "ymin": 1610.68359375,
+        "xmax": 2601.0,
+        "ymax": 1674.6328125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "yfyvpufizo5210j7d1bsfp",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 2379.46875,
+        "ymin": 1611.87890625,
+        "xmax": 2399.390625,
+        "ymax": 1634.58984375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": true,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "79gv3w9craxf70s2s3m928",
+      "label": "warning--slippery-motorcycles--g1",
+      "bbox": {
+        "xmin": 1977.046875,
+        "ymin": 1587.375,
+        "xmax": 2005.734375,
+        "ymax": 1614.8671875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "libkpi4sn3i8jd6z9vgzqf",
+      "label": "warning--slippery-motorcycles--g1",
+      "bbox": {
+        "xmin": 2565.9375,
+        "ymin": 1613.671875,
+        "xmax": 2597.015625,
+        "ymax": 1645.34765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

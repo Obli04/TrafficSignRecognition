@@ -1,0 +1,49 @@
+{
+  "width": 4128,
+  "height": 3096,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "g24ozu4y2ko8jjjm0ypkzh",
+      "label": "warning--traffic-signals--g1",
+      "bbox": {
+        "xmin": 1734.4453125,
+        "ymin": 1186.69921875,
+        "xmax": 1810.03125,
+        "ymax": 1257.75
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": true,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "xhmouw61fcvr41kpvflc95",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 965.484375,
+        "ymin": 1124.71875,
+        "xmax": 1063.2421875,
+        "ymax": 1157.9765625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

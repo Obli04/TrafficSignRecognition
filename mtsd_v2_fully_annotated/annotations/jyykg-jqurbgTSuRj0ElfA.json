@@ -1,0 +1,70 @@
+{
+  "width": 1280,
+  "height": 720,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "t6jmf2wodlv2hhj4dg5ixx",
+      "label": "warning--bicycles-crossing--g2",
+      "bbox": {
+        "xmin": 478.125,
+        "ymin": 314.82421875,
+        "xmax": 507.5,
+        "ymax": 359.6484375
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "1tgggr8jbp4gxbjhqx08zp",
+      "label": "regulatory--no-parking--g2",
+      "bbox": {
+        "xmin": 218.125,
+        "ymin": 215.15625,
+        "xmax": 234.375,
+        "ymax": 234.4921875
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": true,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "1j3lozs93bvgu5bvhprdal",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 213.125,
+        "ymin": 209.70703125,
+        "xmax": 242.8125,
+        "ymax": 274.39453125
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": true,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}

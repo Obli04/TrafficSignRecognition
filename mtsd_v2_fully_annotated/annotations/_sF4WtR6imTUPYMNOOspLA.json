@@ -1,0 +1,49 @@
+{
+  "width": 4608,
+  "height": 3456,
+  "ispano": false,
+  "objects": [
+    {
+      "key": "uhdso54qe7mgie2jtqg186phb2",
+      "label": "regulatory--yield--g1",
+      "bbox": {
+        "xmin": 2468.25,
+        "ymin": 1679.90625,
+        "xmax": 2531.25,
+        "ymax": 1733.0625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": false,
+        "highway": false,
+        "dummy": false
+      }
+    },
+    {
+      "key": "9fuklb0b0dcrrhris6c98rj56e",
+      "label": "other-sign",
+      "bbox": {
+        "xmin": 4212.0,
+        "ymin": 1156.78125,
+        "xmax": 4402.125,
+        "ymax": 1476.5625
+      },
+      "properties": {
+        "barrier": false,
+        "occluded": false,
+        "out-of-frame": false,
+        "exterior": false,
+        "ambiguous": false,
+        "included": false,
+        "direction-or-information": true,
+        "highway": false,
+        "dummy": false
+      }
+    }
+  ]
+}
