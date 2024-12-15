@@ -88,13 +88,10 @@ for filename in os.listdir(ANNOTATIONS_DIR):
         xmax = bbox.get('xmax', None)
         ymax = bbox.get('ymax', None)
         
-        # Calculate normalized coordinates for resized image (20% of original size)
-        resized_width = image_width * 0.2
-        resized_height = image_height * 0.2
-        x_center = ((xmin + xmax) / 2) / resized_width
-        y_center = ((ymin + ymax) / 2) / resized_height
-        bbox_width = (xmax - xmin) / resized_width
-        bbox_height = (ymax - ymin) / resized_height
+        x_center = ((xmin + xmax) / 2) / image_width
+        y_center = ((ymin + ymax) / 2) / image_height
+        bbox_width = (xmax - xmin) / image_width
+        bbox_height = (ymax - ymin) / image_height
 
         yolo_annotations.append(f"{class_id} {x_center:.6f} {y_center:.6f} {bbox_width:.6f} {bbox_height:.6f}") #Write the YOLO annotation to the file
 
