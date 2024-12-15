@@ -10,7 +10,7 @@ OUTPUT_BASE_DIRS = {
     'val': 'datasets/evaluation/labels',
     'test': 'datasets/test/labels'
 }
-CLASSIFIER_YAML = 'classifier2.yaml'
+CLASSIFIER_YAML = 'allClasses.yaml'
 
 # Load class mappings from the classifier yaml file
 try:
