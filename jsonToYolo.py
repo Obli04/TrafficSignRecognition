@@ -88,8 +88,8 @@ for filename in os.listdir(ANNOTATIONS_DIR):
         xmax = bbox.get('xmax', None)
         ymax = bbox.get('ymax', None)
         
-        x_center = ((xmin + xmax) / 2) / image_width
-        y_center = ((ymin + ymax) / 2) / image_height
+        x_center = xmin / image_width
+        y_center = ymin / image_height
         bbox_width = (xmax - xmin) / image_width
         bbox_height = (ymax - ymin) / image_height
 
