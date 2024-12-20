@@ -1,0 +1,16 @@
+path: /home/xpiomba00/GTSDB_2STEPS/data/mandatory
+train: training/images
+val: validation/images
+test: test/images
+
+nc: 8
+
+names:
+  - go_right_(mandatory)
+  - go_left_(mandatory)
+  - go_straight_(mandatory)
+  - go_right_or_straight_(mandatory)
+  - go_left_or_straight_(mandatory)
+  - keep_right_(mandatory)
+  - keep_left_(mandatory)
+  - roundabout_(mandatory)

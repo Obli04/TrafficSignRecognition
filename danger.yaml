@@ -1,0 +1,23 @@
+path: /home/xpiomba00/GTSDB_2STEPS/data/danger
+train: training/images
+val: validation/images
+test: test/images
+
+nc: 15
+
+names:
+  - priority_at_next_intersection_(danger)
+  - danger_(danger)
+  - bend_left_(danger)
+  - bend_right_(danger)
+  - bend_(danger)
+  - uneven_road_(danger)
+  - slippery_road_(danger)
+  - road_narrows_(danger)
+  - construction_(danger)
+  - traffic_signal_(danger)
+  - pedestrian_crossing_(danger)
+  - school_crossing_(danger)
+  - cycles_crossing_(danger)
+  - snow_(danger)
+  - animals_(danger)

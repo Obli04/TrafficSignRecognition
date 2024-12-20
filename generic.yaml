@@ -1,0 +1,12 @@
+path: /home/xpiomba00/GTSDB_2STEPS/data
+train: training/images
+val: validation/images
+test: test/images
+
+nc: 4
+
+names:
+  - prohibitory
+  - danger
+  - mandatory
+  - other
